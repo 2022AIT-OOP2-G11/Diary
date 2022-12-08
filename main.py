@@ -16,6 +16,7 @@ diaries = [
     MakimuraDiary(),
     SakaguchiDiary(),
     kuzuyatowa_diary(),
+]
 
 for d in diaries:
     print("---------------------------------")
