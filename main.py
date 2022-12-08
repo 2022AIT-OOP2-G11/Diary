@@ -10,6 +10,7 @@ from diaries.SakaguchiDiary import SakaguchiDiary
 # ↓のリストには、メンバーの各⽇記が格納されます。
 diaries = [
     DiarySample(),
+    maenodiary(),
     DoiDiary(), 
     NagataDiary(),
     Yoshida_Diary(), 
